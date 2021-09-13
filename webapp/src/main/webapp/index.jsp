@@ -2,6 +2,4 @@
 <a href="http://google.com">GOOGLE</a>
 <a href="http://google.com">GOOGLE</a>
 <a href="http://google.com">GOOGLE</a>
-<a href="http://google.com">GOOGLE</a>
-<a href="http://google.com">GOOGLE</a>
-<a href="http://google.com">GOOGLE</a>
+
